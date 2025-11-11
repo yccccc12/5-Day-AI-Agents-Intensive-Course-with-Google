@@ -24,6 +24,8 @@ Today’s whitepaper introduces **AI agents**, outlining their core capabilities
 - [Build](Day-1/day-1b-agent-architectures.ipynb) your first multi-agent systems using ADK.
 - [Live Stream](https://www.youtube.com/watch?v=ZaUcqznlhv8&list=PLqFaTIg4myu9r7uRoNfbJhHUbLp-1t1YE&index=1&t=30s)
 
+<br>
+
 ### Day 2 (Agent Tools & Interoperability with Model Context Protocol (MCP))
 Dive into the world of tools, understanding how AI agents can "take action" by leveraging external functionalities and APIs, and explore the ease of discovering and using tools offered by the Model Context Protocol (MCP).
 
@@ -34,15 +36,23 @@ Today’s whitepaper focuses on **external tool functions** that enable agents t
 - [Explore](Day-2/day-2a-agent-tools.ipynb) new ways to add tools to extend what your agents can do.
 - [Explore](Day-2/day-2b-agent-tools-best-practices.ipynb) best practices for tools, including using MCP and long-running operations.
 
+<br>
+
 ### Day 3: Context Engineering: Sessions & Memory
 Explore how to build AI agents that can remember past interactions and maintain context. Learn how to implement short-term and long-term memory to create more robust agents capable of handling complex, multi-turn tasks.
+
+<br>
 
 ### Day 4: Agent Quality
 Learn to build robust and reliable AI agents by mastering the critical disciplines of evaluating and improving agents. This session will cover observability, logging, and tracing to provide visibility, alongside key metrics and evaluation strategies to optimize agent performance.
 
+<br>
+
 ### Day 5: Prototype to Production 
 Go beyond local testing and learn to deploy and scale AI agents for real-world use. This session will cover the best practices for deploying your agents so that others can use them, including how to create a truly multi-agent system with the Agent2Agent (A2A) Protocol.
 
+<br>
+
 ## Resources
-[Course Page](https://www.kaggle.com/learn-guide/5-day-agents)
+[Course Page](https://www.kaggle.com/learn-guide/5-day-agents) \
 [Live Stream Recording](https://www.youtube.com/playlist?list=PLqFaTIg4myu9r7uRoNfbJhHUbLp-1t1YE)
