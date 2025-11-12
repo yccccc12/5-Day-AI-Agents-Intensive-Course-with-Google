@@ -41,6 +41,12 @@ Today’s whitepaper focuses on **external tool functions** that enable agents t
 ### Day 3: Context Engineering: Sessions & Memory
 Explore how to build AI agents that can remember past interactions and maintain context. Learn how to implement short-term and long-term memory to create more robust agents capable of handling complex, multi-turn tasks.
 
+Today’s whitepaper introduces **context engineering**, explaining how to manage an AI’s conversation history and memory to create stateful, personalized interactions. In the codelabs, a stateful agent is built using the Agent Development Kit (ADK), first to handle short-term context within a session, and then to add long-term memory that persists across multiple sessions.
+
+- [Summary podcast](https://www.youtube.com/watch?v=FMcExVE15a4&t=558s) episode for this unit
+- [Build](Day-3/day-3a-agent-sessions.ipynb) stateful agents and perform context engineering
+- [Explore](Day-3/day-3b-agent-memory.ipynb) how to use memory with your agent
+
 <br>
 
 ### Day 4: Agent Quality
